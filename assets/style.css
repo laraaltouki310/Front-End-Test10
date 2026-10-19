@@ -28,7 +28,7 @@ header{
     align-items: center;
 }
 .top-left{
-    background-image: url(/assets/midia/top-left-bg.jpg);
+    background-image: url(/Front-End-Test10/assets/midia/top-left-bg.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -142,7 +142,7 @@ header{
     margin-top: 8px;
 }
 footer{
-   background-image: url(/assets/midia/reservation-bg.jpg);
+   background-image: url(/Front-End-Test10/assets/midia/reservation-bg.jpg);
    height: 80vh;
    margin-top: 6%;
    display: flex;
