@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Dancing Script', 'Poppins';
+    font-family: 'Poppins';
 }
 nav{
     width: 99vw;
@@ -36,8 +36,11 @@ header{
     width: 28vw;
     height: 75vh;
 }
-.top-left img{
-    width: 50%;
+.top-left h1{
+    font-family: 'Dancing Script';
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0px;
 }
 .top-left p{
     color: white;
